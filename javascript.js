@@ -100,4 +100,3 @@ scissors.addEventListener('click', (event)=>{
     var humanChoice = "scissors";
     playRound(humanChoice);
 })
-
